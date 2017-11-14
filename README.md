@@ -1,2 +1,0 @@
-# AngularCompleteGuide
-Udemy Course
